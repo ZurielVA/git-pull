@@ -1,2 +1,2 @@
-# git-pull
+# Utilizando Git Pull
 Primera vez que utilizo pull 😎👌
